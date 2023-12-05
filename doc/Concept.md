@@ -29,6 +29,8 @@
 
 # 4. Демонстрація
 
+![Application on Kubernetes](625258.cast)  
+
 ## minikube
 
 Для демонстрації minikube ми розгорнемо застосунок «Hello World» на Kubernetes.
